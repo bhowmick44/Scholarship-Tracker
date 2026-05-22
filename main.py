@@ -28,14 +28,9 @@ st.title("🎓 Scholarship Tracker")
 tab1, tab2, tab3, tab4 = st.tabs([
 tab1, tab2, tab3, tab4 = st.tabs([
     "➕ Add Uni", 
-    "➕ Add Uni", 
-    "🟢 Opening Soon (30 Days)", 
     "🟢 Opening Soon (30 Days)", 
     "🔴 Ending Soon (15 Days)", 
-    "🔴 Ending Soon (15 Days)", 
     "📋 All Saved Links"
-    "📋 All Saved Links"
-])
 ])
 
 
